@@ -1,6 +1,11 @@
 # Laptop Price Predictor (Minor Project)
 
-**Authors:** Srustisri Panda, Puja Rani Mishra, Kajal Roul  
+**Authors:** Srustisri Panda (sru-codes), Puja Rani Mishra (mishrapujarani11-web), Kajal Roul (kajalroul2007-ops)
+
+**Contact:**
+- Srustisri Panda: [LinkedIn](https://www.linkedin.com/in/srustisri-panda-661090398)
+- Puja Rani Mishra: [mishrapujarani11@gmail.com](mailto:mishrapujarani11@gmail.com), [LinkedIn](https://www.linkedin.com/in/pujarani-mishra-0453303a6)
+- Kajal Roul: [kajalroul2007@gmail.com](mailto:kajalroul2007@gmail.com), [LinkedIn](https://www.linkedin.com/in/kajal-roul-523b0b316)  
 **Project Type:** Group Project  
 **Topic:** Regression & Prediction Projects  
 **Project ID:** Minor Project #6 (from AI/ML Project List)
