@@ -1,6 +1,7 @@
 # Laptop Price Predictor (Minor Project)
 
-**Author:** Srustisri Panda  
+**Authors:** Srustisri Panda, Puja Rani Mishra, Kajal Roul  
+**Project Type:** Group Project  
 **Topic:** Regression & Prediction Projects  
 **Project ID:** Minor Project #6 (from AI/ML Project List)
 
